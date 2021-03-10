@@ -1,0 +1,13 @@
+# Instruction for Plant Test T1...
+
+def Plant_T1_ins(CKT, PortNo):
+ while True:
+  if CKT == 1:
+   print ("""Hello Dear, 
+You need to apply the commands below to do your job...
+1. go the your POP (ESR.xxxx) and apply this command show port %s 
+2. The command above is just to check if the port had been configured...
+3. Now let's use this command from the same POP, cofnigure port  
+4. info
+5. Check the configuration it must be like the ex the I provide you with...
+""")

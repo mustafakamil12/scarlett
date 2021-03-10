@@ -1,0 +1,1 @@
+#New Class for the additiona information required for the Site Verification..!

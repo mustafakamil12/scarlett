@@ -1,0 +1,37 @@
+def Activation_Broad_check():
+    _i = input("i - Check the Sap it must be up (OK/Failed)------")
+    _ii = input("ii - Interface IP (OK/Failed)------")
+    _iii = input("iii- QOS (OK/Failed)------")
+    _iv = input ("iv - Route table for ESR VTI IP (OK/Failed)------")
+    _v = input("v - BGP (OK/Failed)------")
+    _vi = input("vi - cpm filter (OK/Failed)------")
+    _vii = input("vii - Mirrors (OK/Failed)------")
+    _viii = input("viii - Check Reachability (OK/Failed)------")
+    _ix = input("ix - check the Ethernet port ((OK/Failed)------")
+    _x = input("x - check the BGP Neighbor detail (OK/Failed)------")
+    _xi = input("xi check the neighbor received (OK/Failed)------")
+    _xii = input("xii - check the neighbor advertised (OK/Failed)------")
+    _xiii = input("xiii - check the IPSec for the VPRN (OK/Failed)------")
+
+
+
+
+
+
+
+
+
+
+#print("i - Check the Sap it must be up    -----")
+#print("ii - Interface IP                  -----")
+#print("iii- QOS                           -----")
+#print("iv - Route table for PE IP         -----")
+#print("v - BGP                            -----")
+#print("vi - cpm filter                    -----")
+#print("vii - Mirrors                      -----")
+#print("viii - Check Reachability          -----")
+#print("ix - check the Ethernet port       -----")
+#print("x - check the BGP Neighbor detail  -----")
+#print("xi check the neighbor received     -----")
+#print("xii - check the neighbor advertised-----") 
+#print("xiii - check the IPSec for the VPRN-----")
